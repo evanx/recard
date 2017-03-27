@@ -2,7 +2,7 @@
 
 Scan Redis sets and print cardinality.
 
-<img src='https://raw.githubusercontent.com/evanx/recard/master/docs/readme/images/main3.png'>
+<img src='https://raw.githubusercontent.com/evanx/recard/master/docs/readme/images/main.png'>
 
 
 ## Installation
