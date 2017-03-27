@@ -1,0 +1,32 @@
+{
+  "name": "recard",
+  "version": "0.1.0",
+  "description": "Scan Redis sets and print cardinality..",
+  "main": "lib/index.js",
+  "bin": {
+    "recard": "./bin/recard.sh"
+  },
+  "scripts": {
+    "lint": "eslint --cache src",
+    "start": "node7 --harmony lib/index.js"
+  },
+  "author": {
+    "url": "https://twitter.com/@evanxsummers"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^1.2.0",
+    "redis-app": "^0.13.6"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanx/recard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evanx/recard/issues"
+  },
+  "homepage": "https://github.com/evanx/recard#readme"
+}
