@@ -1,7 +1,7 @@
 {
   "name": "recard",
-  "version": "0.1.1",
-  "description": "Scan Redis sets and print cardinality..",
+  "version": "0.1.2",
+  "description": "Scan Redis sets and print cardinality.",
   "main": "lib/index.js",
   "bin": {
     "recard": "./bin/recard.sh"
