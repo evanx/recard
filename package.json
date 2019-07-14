@@ -16,10 +16,11 @@
   "license": "ISC",
   "dependencies": {
     "cli-color": "^1.2.0",
+    "lodash": "^4.17.14",
     "redis-app": "^0.13.6"
   },
   "devDependencies": {
-    "eslint": "^6.0.0"
+    "eslint": "^6.0.1"
   },
   "repository": {
     "type": "git",
